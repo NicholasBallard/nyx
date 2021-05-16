@@ -4,7 +4,7 @@ On May 15, 2021, the cat named Nyxie went missing.
 
 This project is a collection of resources and tools for bringing her back home.
 
-![Nyxie, aka "Darkness"](refs/nyxie_1.jpg)
+![Nyxie, aka "Darkness"](static/nyxie_1.jpg)
 
 ## Ideas
 
