@@ -1,0 +1,7 @@
+address: "321 West Chenango Rd, Castle Creek, NY 13744"
+scale: 10
+
+things:
+  - security camera 1:
+    location: abc
+    label: "security camera"
